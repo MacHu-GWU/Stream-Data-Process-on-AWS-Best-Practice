@@ -93,4 +93,5 @@ Final, what else we can do with Real-Time analysis
 3. fraud detection for banking and credit cards. (Kinesis Analytics ML)
 4. system monitoring. (CloudWatch + AWS Lambda + SNS)
 5. stock trading system automation. (Redshift + AWS Lambda)
-6. etc ...
+6. monitor web browser behavior data, push the most relative Ads. (AWS Lambda + SageMaker)
+7. etc ...
